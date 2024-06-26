@@ -84,7 +84,8 @@ h1, h2, h3, h4, h5, h6 {
   color: white;
 }
 #header .logo img {
-  max-height: 80px;
+  width:auto;
+  max-height:100px;
 }
 
 /*--------------------------------------------------------------
